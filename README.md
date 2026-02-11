@@ -47,8 +47,8 @@ npm install
 ```
 
 3. הגדר משתני סביבה:
-- העתק את `.env.example` ל-`.env`
-- הוסף את פרטי Firebase שלך
+- העתק את `.env.example` ל-`.env.local`
+- הוסף את פרטי Firebase שלך מ-[Firebase Console](https://console.firebase.google.com/)
 
 4. הרץ את שרת הפיתוח:
 ```bash
@@ -56,6 +56,8 @@ npm run dev
 ```
 
 5. פתח [http://localhost:3000](http://localhost:3000) בדפדפן
+
+**הערה:** שם המאגר הוא StudyBuddy אך האפליקציה שונתה ל-FitTrack - אפליקציית מעקב כושר מקיפה.
 
 ## 🎨 עיצוב
 

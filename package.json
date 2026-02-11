@@ -1,7 +1,7 @@
 {
-  "name": "studybuddy",
+  "name": "fittrack",
   "version": "1.0.0",
-  "description": "FitTrack - Comprehensive fitness tracking application",
+  "description": "FitTrack - Comprehensive fitness tracking application for workouts, nutrition, and progress",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
