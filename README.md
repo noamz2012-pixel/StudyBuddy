@@ -1,2 +1,2 @@
-# StudyBuddy
- AI-powered study assistant for students
+# FitTrack
+ Fitness Tracking Application
